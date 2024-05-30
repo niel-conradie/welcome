@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Niel Conradie | GitHub",
+  title: "Welcome | Niel Conradie",
   description: "Niel Conradie GitHub Pages",
 };
 
